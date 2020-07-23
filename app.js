@@ -80,3 +80,6 @@ function Active(){
 
 // Scroll to section on link click
 window.addEventListener("scroll".Active)
+
+// Scroll to section on link click
+window.addEventListener("scroll".Active)
