@@ -1,5 +1,5 @@
 # Landing-page
-Front end project for FWD professional track & Udacity
+Front end project for FWD professional track & Udacity.
 # Content
-Creating dynamically interactive navigation bar
+Creating dynamically interactive navigation bar.
 
